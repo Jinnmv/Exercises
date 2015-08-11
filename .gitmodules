@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = D:/Projects/Exercises
+	branch = gh-pages
