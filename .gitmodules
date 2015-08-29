@@ -1,4 +1,4 @@
 [submodule "dist"]
 	path = dist
-	url = ./
+	url = git@github.com:Jinnmv/Exercises.git
 	branch = gh-pages
